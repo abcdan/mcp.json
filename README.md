@@ -35,6 +35,13 @@ To add the browser MCP server to Claude Code, run the following command in your 
 claude mcp add browser npx @browsermcp/mcp@latest -s user
 ```
 
+To add the Context 7 MCP server to Claude Code, run the following comand.
+
+## Tips!
+- For Context 7 for documentation, explicity ask your AI assistant to use Context 7.
+- For Figma, it only works with 1:1 Figma urls pasted in.
+- In general, ask for the tool to be used.
+
 ## Configuration File
 
 The `mcp.json` file contains all server configurations. Make sure to review and customize the settings according to your needs before applying them to your development environment.
