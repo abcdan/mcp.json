@@ -20,6 +20,13 @@
         "mcp-remote",
         "https://mcp.atlassian.com/v1/sse"
       ]
+    },
+    "time": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-time",
+        "--local-timezone=Europe/Amsterdam"
+      ]
     }
   }
 }
