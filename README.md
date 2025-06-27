@@ -9,6 +9,7 @@ Before setting up MCP servers, ensure you have:
   - Follow the [official Figma guide](https://help.figma.com/hc/en-us/articles/8085703771159-Manage-personal-access-tokens) to generate your personal access token
 - **Cursor**: A license
 - **Claude.ai**: A license, preferably Max 5x.
+- **BrowserMCP**: Installed in your browser. Get it [here](https://browsermcp.io/)
 
 ## Installation & Setup
 
