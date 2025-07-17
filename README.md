@@ -37,6 +37,9 @@ claude mcp add browser npx @browsermcp/mcp@latest -s user
 ```
 
 To add the Context 7 MCP server to Claude Code, run the following comand.
+```
+claude mcp add -s user context7 -- npx -y @upstash/context7-mcp
+```
 
 ## Tips!
 - For Context 7 for documentation, explicity ask your AI assistant to use Context 7.
